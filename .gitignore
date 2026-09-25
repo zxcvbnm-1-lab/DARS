@@ -60,3 +60,6 @@ Thumbs.db
 #===========================================================
 *.tmp
 *.temp
+# Local Spring Boot configuration
+backend/application.properties
+backend/src/main/resources/application.properties
